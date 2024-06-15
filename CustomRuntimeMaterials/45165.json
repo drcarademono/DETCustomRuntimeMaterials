@@ -1,0 +1,72 @@
+{
+  "regions": [
+    {
+      "regionName": "Alik'r Desert",
+      "defaultMaterials": [
+        {
+          "archive": 1050,
+          "record": 0,
+          "frame": 0
+        }
+      ],
+      "winterMaterials": [
+        {
+          "archive": 1050,
+          "record": 0,
+          "frame": 0
+        }
+      ]
+    },
+    {
+      "regionName": "Dragontail Mountains",
+      "defaultMaterials": [
+        {
+          "archive": 1050,
+          "record": 1,
+          "frame": 0
+        }
+      ],
+      "winterMaterials": [
+        {
+          "archive": 1050,
+          "record": 1,
+          "frame": 0
+        }
+      ]
+    },
+    {
+      "regionName": "Daggerfall",
+      "defaultMaterials": [
+        {
+          "archive": 1050,
+          "record": 2,
+          "frame": 0
+        }
+      ],
+      "winterMaterials": [
+        {
+          "archive": 1050,
+          "record": 2,
+          "frame": 0
+        }
+      ]
+    },
+    {
+      "regionName": "Glenumbra Moors",
+      "defaultMaterials": [
+        {
+          "archive": 1050,
+          "record": 3,
+          "frame": 0
+        }
+      ],
+      "winterMaterials": [
+        {
+          "archive": 1050,
+          "record": 3,
+          "frame": 0
+        }
+      ]
+    }
+  ]
+}
